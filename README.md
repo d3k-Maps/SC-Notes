@@ -1,5 +1,7 @@
 # All-Star Baseball
 
+[ZTRPG](./ZTRPG.md)
+
 ## **v1.26**
 - Pinch Hitters can no longer use Special Bats that were set before the switch
 - Special Bats should no longer be cancelled out by natural hard hits
