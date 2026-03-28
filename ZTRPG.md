@@ -138,7 +138,7 @@ The Gems once served as a bridge between the physical and spiritual worlds. Thei
 
 ---
 
-# **Story Dialogue**
+# **📜 Story Dialogue**
 
 ---
 
@@ -316,9 +316,12 @@ Absolutely — here is **Scene 10 onward**, formatted in the same **clean Markdo
 
 # **Scene 10 — The Sacred Camp**
 
-**PARTY LEADER:** We're here for Zelk!  
+**PARTY LEADER:** We're here for Zelk! 
+
 **BAMBOSA:** Who dares enter the sacred camp!  
+
 **PARTY LEADER:** Your tribe has committed treacherous acts toward the town of Slenzar. It's time to answer for your crimes!  
+
 **BAMBOSA:** Ha! *You* are the hypocrites and murderers! Scum like you should die!
 
 ---
@@ -326,9 +329,13 @@ Absolutely — here is **Scene 10 onward**, formatted in the same **clean Markdo
 # **Scene 11 — Confronting Zelk**
 
 **PARTY LEADER:** Now Zelk, it's your turn! Fight us!  
+
 **ZELK:** …I'm not much of a fighter. I spend my time reading… mostly.  
+
 **PARTY LEADER:** No matter, we will make the first move!  
+
 **ZELK:** Do you know what kind of man Cidel is?  
+
 **PARTY LEADER:** The kind that cares for his innocent people, and alleviates their suffering… caused by blood‑thirsty, war‑crazed people like yourself!  
 
 **ZELK:** Suffering? Have you not looked at our camp?  
@@ -372,10 +379,9 @@ our life force. Ever since he took the Gems, our tribe has fallen into a
 deep sickness, unable to continue normal life. We are dying slowly and
 painfully.
 
-Profit, perhaps. Although I fear much worse. Our ancestors told stories
-of a time when our world and the spirit world lay open to each other:
-one, a vast platform for creation; the other, an eternal reflection of
-those creations in the incorporeal life after death.
+Our ancestors told stories of a time when our world and the spirit world
+lay open to each other: one, a vast platform for creation; the other, an
+eternal reflection of those creations in the incorporeal life after death.
 
 This balance was sustained by the Spirit of Harmony, the ancient
 gatekeeper for the newly departed. But as humanity grew — and its
