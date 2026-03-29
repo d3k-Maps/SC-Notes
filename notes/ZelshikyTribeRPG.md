@@ -1,4 +1,4 @@
-# Zelshiky Tribe RPG (v1.16)
+# Zelshiky Tribe RPG
 
 -----
 
