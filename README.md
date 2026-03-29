@@ -1,4 +1,4 @@
-# by d3k
+## by d3k
 
 
 > an archive of all the StarCraft: Brood War (UMS) custom maps made by d3k
@@ -22,7 +22,6 @@
 | [Bowser Party](./notes/BowserParty.md) | 7/11/09 |
 | [Escape from Prison 4](./notes/EscapeFromPrison4.md) | 12/8/08 |
 | [Doodle Obstacles 1 & 2](./notes/DoodleObstacles1%262.md) | 11/26/08 |
-| [Cat n Mouse Jungle 4.1](./notes/CatnMouseJungle4.1.md) | 9/21/08 |
 | [Capricious Bound](./notes/CapriciousBound.md) | 8/20/08 |
 | [MoP Quiz](./notes/MoPQuiz.md) | 8/13/08 |
 | [Horizon Bound](./notes/HorizonBound.md) | 7/8/08 |
