@@ -1,4 +1,4 @@
-# Made by d3k
+# made by d3k
 
 | Map Name | Last Modified |
 | :--- | :--- |
