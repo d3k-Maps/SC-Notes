@@ -10,9 +10,9 @@ Download (singleplayer): [Racers](../files/Racers(E).scx)
 
 ## Table of Contents
 
-  * [Guide](./Racers.md#guide)
-  * [Controls](./Racers.md#controls)
-  * [Random Tips](./Racers.md#random-tips)
+  * [Guide](./Racers.md#-guide)
+  * [Controls](./Racers.md#%EF%B8%8F-controls)
+  * [Random Tips](./Racers.md#-random-tips)
 
 -----
 
