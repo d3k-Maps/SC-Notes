@@ -21,7 +21,7 @@ Download (singleplayer): [Racers](../files/Racers(E)-1p.scx)
 ## 🎮 **Guide**
 - **Unload units** to perform actions as a Racer  
 - Use **Speed Up** and **Slow Down** to adjust speed (shown as **gas**)  
-- **Corners are key** — use **Turn** to rotate around corners  
+- **Corners are key** — use **Turn** to initiate diagonal movement on corners
 - Higher speed (**gas**) = **longer turn duration** (shown as **ore**)  
 - Max speed is **11**, but you can only turn at **10 or below** (with one exception)  
 - Crashing resets your speed to 0 — use **Jump Start** to recover faster  
