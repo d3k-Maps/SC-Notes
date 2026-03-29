@@ -22,7 +22,7 @@ Download: [All-StarBaseball](../files/All-StarBaseball.scx)
 
 # Inspiration
 
-A remake of the original [Baseball](https://scmscx.com/map/kV5f4jYD) map by Dragoon-elf. 
+A remake of the original [Baseball](https://scmscx.com/map/kV5f4jYD) map by Dragoon-elf with a bunch of new features added to make the game more fun and baseball-like.
 
 -----
 
