@@ -22,7 +22,7 @@ Download: [All-StarBaseball](../files/All-StarBaseball.scx)
 
 # Inspiration
 
-A remake of the original [Baseball](https://scmscx.com/map/kV5f4jYD) map by Dragoon-elf with a bunch of new features added to make the game more fun and baseball-like.
+A remake of the original [Baseball](https://scmscx.com/map/kV5f4jYD) map by Dragoon-elf. A bunch of new features added to make the game more fun and baseball-like.
 
 -----
 
@@ -41,10 +41,10 @@ A remake of the original [Baseball](https://scmscx.com/map/kV5f4jYD) map by Drag
 - Wild pitches
 - Pinch runner & pinch hitter  
 - Ground rule double  
-- Special hits: **Line Drive** & **Worm Burner**  
-- Special bats: **Rubber**, **Stick**, **Cricket**, **Wiffle**, **Corked** & **Metal**
-- Special pitches: **Spitball**, **Sinker**, **Slider**, **Knuckleball**, **Changeup** & **4-Seam Fastball**
-- Random effects: **Bad Hop**, **Bounces**, **Wind**, & **Sun**  
+- Special hits: **Line Drive**, **Worm Burner**  
+- Special bats: **Rubber**, **Stick**, **Cricket**, **Wiffle**, **Corked**, **Metal**
+- Special pitches: **Spitball**, **Sinker**, **Slider**, **Knuckleball**, **Changeup**, **4-Seam Fastball**
+- Random effects: **Bad Hop**, **Bounces**, **Wind**, **Sun**  
 - Whole field  
 - More advanced hitting system  
 
