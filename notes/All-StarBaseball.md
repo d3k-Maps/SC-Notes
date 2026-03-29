@@ -78,7 +78,7 @@ Download: [All-StarBaseball](../files/All-StarBaseball.scx)
 
 ---
 
-# **Runner Tips**
+# **Running Tips**
 - Lead by moving off the plate during a pitch — this makes stealing easier  
 - Watch out for pickoffs — be ready to return to the base quickly  
 - Use the **Dropship** to slide to a base if the play is close  
