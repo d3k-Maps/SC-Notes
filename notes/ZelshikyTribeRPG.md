@@ -1,5 +1,7 @@
 # Zelshiky Tribe RPG (v1.15)
 
+Download Here: [ZTRPG](../files/ZTRPG(P).scx)
+
 -----
 
 ## Table of Contents
