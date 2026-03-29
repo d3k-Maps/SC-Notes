@@ -1,8 +1,6 @@
 # made by d3k
 
 > This is an archive of all the StarCraft Custom Maps created by d3k.
-> 
-> The name is short for doodle3000, which was the first username they used.
 
 | Map Name | Last Modified |
 | :--- | :--- |
