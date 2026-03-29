@@ -12,6 +12,7 @@ Download (singleplayer): [Racers](../files/Racers(E).scx)
 
   * [Guide](./Racers.md#-guide)
   * [Controls](./Racers.md#%EF%B8%8F-controls)
+  * [Game Modes](./Racers.md#game-modes)
   * [Random Tips](./Racers.md#-random-tips)
   * [History](./Racers.md#history)
 
@@ -48,6 +49,31 @@ Download (singleplayer): [Racers](../files/Racers(E).scx)
 | Turn | **Shift** | **Medic** |
 | Jump Start / Hard Brake | **Comma (,)** | **Marine** |
 | Focus Mode | **N** | **Build SCV at CC** |
+
+---
+
+## **Game Modes**
+
+### **Knockout**
+The racer in **last place each lap is eliminated** until only one remains.
+
+---
+
+### **Practice**
+A free‑form mode where you can **drive, experiment, and test mechanics**.  
+Exit practice at the **top‑right** of the map.
+
+---
+
+### **Standard**
+A classic tournament style race. **Top 4** advance. Then **Top 2**. With **Top 1** as winner.
+Or choose to compete in one race for **Top 3** and receive a medal.
+
+---
+
+### **Time Trial**
+Each racer takes turns attempting to complete a number of laps **as fast as possible**.  
+Fastest lap wins.
 
 ---
 
