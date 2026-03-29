@@ -105,3 +105,10 @@ Seeing **lurker blood** after a crash means you were close to a successful turn.
 Next time, adjust by starting earlier or taking a wider angle.
 
 ---
+
+## History
+
+## **v1.26**
+- Loads of bugs fixed :)
+- Game modes added
+- Added EUD support for keyboard controls
