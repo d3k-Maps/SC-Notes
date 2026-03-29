@@ -12,7 +12,7 @@ Download (singleplayer): [Racers](../files/Racers(E).scx)
 
   * [Guide](./Racers.md#-guide)
   * [Controls](./Racers.md#%EF%B8%8F-controls)
-  * [Game Modes](./Racers.md#game-modes)
+  * [Game Modes](./Racers.md#-game-modes)
   * [Random Tips](./Racers.md#-random-tips)
   * [History](./Racers.md#history)
 
@@ -52,7 +52,7 @@ Download (singleplayer): [Racers](../files/Racers(E).scx)
 
 ---
 
-## **Game Modes**
+## 🎮 **Game Modes**
 
 ### **Knockout**
 The racer in **last place each lap is eliminated** until only one remains.
@@ -73,11 +73,11 @@ Or choose to compete in one race for **Top 3** and receive a medal.
 
 ### **Time Trial**
 Each racer takes turns attempting to complete a number of laps **as fast as possible**.  
-Fastest lap wins.
+Best time wins. Or choose to eliminate the worst time each round.
 
 ---
 
-# 💡 **Random Tips**
+## 💡 **Random Tips**
 
 ### **Tip #1**  
 Slow down before turning. Only your **initial speed** affects turn length.
