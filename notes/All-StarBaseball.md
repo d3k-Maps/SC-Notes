@@ -8,6 +8,8 @@ Download: [All-StarBaseball](../files/All-StarBaseball.scx)
 
 ## Table of Contents
 
+  * [Inspiration](./All-StarBaseball.md#inspiration)
+  * [Features](./All-StarBaseball.md#-features)
   * [Tips](./All-StarBaseball.md#tips)
   * [Special Bats](./All-StarBaseball.md#-special-bats)
   * [Special Pitches](./All-StarBaseball.md#-special-pitches)
@@ -15,6 +17,12 @@ Download: [All-StarBaseball](../files/All-StarBaseball.scx)
   * [Special Hitter](./All-StarBaseball.md#-special-hitter)
   * [Htting Zones](./All-StarBaseball.md#hitting-zones)
   * [History](./All-StarBaseball.md#history)
+
+-----
+
+# Inspiration
+
+A remake of the original [Baseball](https://scmscx.com/map/kV5f4jYD) map by Dragoon-elf. 
 
 -----
 
