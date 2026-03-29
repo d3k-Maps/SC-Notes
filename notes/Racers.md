@@ -1,6 +1,21 @@
 # 🏁 **RACERS**
 
-## 🎮 **How to Play**
+-----
+
+Download (multiplayer): [Racers](../files/Racers(E).scx)
+Download (singleplayer): [Racers](../files/Racers(E).scx)
+
+-----
+
+## Table of Contents
+
+  * [Guide](./Racers.md#guide)
+  * [Controls](./Racers.md#controls)
+  * [Random Tips](./Racers.md#random-tips)
+
+-----
+
+## 🎮 **Guide**
 - **Unload units** to perform actions as a Racer  
 - Use **Speed Up** and **Slow Down** to adjust speed (shown as **gas**)  
 - **Corners are key** — use **Turn** to rotate around corners  
