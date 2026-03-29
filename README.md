@@ -1,7 +1,7 @@
 # by d3k
 
 
-> an archive of all the StarCraft: Brood War (UMS) custom maps made by d3k since 2003
+> an archive of all the StarCraft: Brood War (UMS) custom maps made by d3k
 
 | Map Name | Last Modified |
 | :--- | :--- |
