@@ -10,7 +10,8 @@
   * [Quests](./ZelshikyTribeRPG.md#quests)
   * [Items](./ZelshikyTribeRPG.md#items)
   * [Energy](./ZelshikyTribeRPG.md#energy)
-  * [Buildings & Shops](./ZelshikyTribeRPG.md#buildings)
+  * [Buildings & Shops](./ZelshikyTribeRPG.md#buildings--shops)
+  * [Dialogue](./ZelshikyTribeRPG.md#-story-dialogue)
 
 -----
 
