@@ -4,7 +4,7 @@
 
 Download (multiplayer): [Racers](../files/Racers(E).scx)
 
-Download (singleplayer): [Racers](../files/Racers(E).scx)
+Download (singleplayer): [Racers](../files/Racers(E)-1p.scx)
 
 -----
 
@@ -135,6 +135,6 @@ Next time, adjust by starting earlier or taking a wider angle.
 ## History
 
 ## **v1.26**
-- Loads of bugs fixed :)
+- Loads of bugs fixed
 - Game modes added
 - Added EUD support for keyboard controls
