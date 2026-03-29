@@ -2,7 +2,7 @@
 
 -----
 
-[DOWNLOAD](../files/ZTRPG(P).scx)
+Download [HERE](../files/ZTRPG(P).scx)
 
 -----
 
