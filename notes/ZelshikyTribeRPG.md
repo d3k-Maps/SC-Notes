@@ -1,6 +1,62 @@
 # Zelshiky Tribe RPG (v1.15)
 
+-----
 Download: [ZTRPG](../files/ZTRPG(P).scx)
+-----
+
+## **v1.16**
+- Loads of bugs fixed, both small (class specific) and big (game breaking)
+- Many features amended and added, including an alternate ending
+- Text redone or improved, and backstory added/fleshed out
+- Difficulty of Bosses and certain quests increased
+
+## **v1.15**
+- Stun beacon quest modified and fixed
+- All boss battles should now work properly
+- The Mongrel special attack in the Final Boss battle now lowers hit points instead of instantly killing
+- Fixed a couple of unit unplaceable bugs in the Bambosa boss battle
+- Colossus will no longer interfere during the Bambosa boss battle
+- Enemy shifters should act more normally now
+- The invisible wraiths that would appear in boss Battles have been replaced with scouts
+- Pathing for Wagons has been improved
+- Malaek will no longer have town attacks during the Wagon quest
+- Recruitment center system improved and bugs addressed
+- Adjustments to character / in-game messages made
+- Basilisk no longer randomly goes off into the wilderness
+- The Zelshiky camp now visually heals at the end of the game
+- Disruption Pulsator item improved
+- Bunkers that respawn after a town attack should no longer glitch
+- Added more Signs
+- Dialogue in cut scenes improved and cleaned up
+
+## **v1.14**
+- Fixed a bug where Recruitment Center wouldn't work in bought towns
+- Fixed a bug where Stage 3 text wouldn't show for certain players
+- Made collecting earnings from a Castle take less time
+- The Level progress display now gets reset by the level up triggers
+- Bambosa trample attack no longer leaves Axe Wielders in spawn area
+- Madella will no longer get stuck in spawn area
+- Possible fix to a bug where the Stun Beacon side quest would automatically fail
+- Stamina now only upgrades every 4 levels
+- There are now more Ancient Structures
+- Improvement made to Warp Beacon system
+- Purchasing Malaek now grants you access to the town's secret exit
+- Energy can now prolong the time a person has after their death
+
+## **v1.13**
+- Fixed a bug where the Thief couldn't exit the Passenger boat upon arrival to Gixon
+- Fixed a bug where the Thief couldn't enter the cave through the Slenzar entrance
+- Fixed a bug where the Thief couldn't have more than 3 Accomplices regardless of staging
+- Fixed a bug where a recycled switch created a buggy diamond after a town attack
+- Decreased the amount of experience needed to level up by 20%
+- Any and all recruits now teleport to you during the final boss fights
+- Town attacks should no longer trigger during a boss battle
+- The text for the price of a Long Bow Specialist has been corrected
+- Possible fix to Warlock's vortex spell damage system
+- Fixed several bugs concerning the purchase of Drinks
+- Added an item called Scroll of Telepathy
+- Added Secret Chests
+- Fixed a bug where Soul Catcher would screw up a player's inventory
 
 -----
 
