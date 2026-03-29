@@ -8,6 +8,7 @@ Download: [ZTRPG](../files/ZTRPG(P).scx)
 
 ## Table of Contents
 
+  * [History](./ZelshikyTribeRPG.md#v116)
   * [Story](./ZelshikyTribeRPG.md#story)
   * [Heroes](./ZelshikyTribeRPG.md#heroes)
   * [Abilities](./ZelshikyTribeRPG.md#abilities)
