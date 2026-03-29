@@ -12,6 +12,149 @@ Download: [All-StarBaseball](../files/All-StarBaseball.scx)
 
 -----
 
+# ⚾ Game Features & Special Mechanics
+
+## 🆕 Core Features
+- Fouls  
+- Intentional bunting  
+- Stealing *(after pitch)*  
+- Leading *(with a limit)*  
+- Pickoffs  
+- Sliding  
+- Advance multiple bases *(even if ball is in the air)*  
+- No runs on force outs *(that end the inning)*  
+- Walkoff homeruns & runs  
+- Hit by pitch
+- Wild pitches
+- Pinch runner & pinch hitter  
+- Ground rule double  
+- Special hits: **Line Drive** & **Worm Burner**  
+- Special bats: **Rubber**, **Stick**, **Cricket**, **Wiffle**, **Corked** & **Metal**
+- Special pitches: **Spitball**, **Sinker**, **Slider**, **Knuckleball**, **Changeup** & **4-Seam Fastball**
+- Random effects: **Bad Hop**, **Bounces**, **Wind**, & **Sun**  
+- Whole field  
+- More advanced hitting system  
+
+---
+
+# 🪓 Special Bats
+
+## **Rubber Bat**
+- Always produces a ball with continuous **Bounce**  
+- Ball may bounce **5–7 times**  
+- A bounce is shown by a gap in the **Trail**  
+- May result in a **Ground Rule Double**
+
+---
+
+## **Stick Bat**
+- Always produces a hard‑hit ground ball (**Worm Burner**)  
+- Hit direction is controlled using the **Aim** (wraith) in the stands  
+- Move the Aim along the wall edge to adjust direction  
+- Moving Aim past the posts teleports it to the opposite side
+
+---
+
+## **Cricket Bat**
+- Hides the **Trail** of the ball in the air (similar to **Sun** effect)  
+- Trail normally helps fielders predict when the ball will fall  
+- Amount of hidden Trail varies
+
+---
+
+## **Wiffle Bat**
+- Causes the ball to curve in the air (similar to **Wind**)  
+- Long hits may take sharp, unexpected turns  
+- Balls always have a **Bad Hop**  
+- A Bad Hop causes a sudden sharp turn when the ball hits the ground
+
+---
+
+## **Corked Bat**
+- Adds extra power to the next hit  
+- Power has a cap (tank explosion level)  
+- Slightly increases homerun chance  
+- Balls always **Bounce**, increasing chance of a **Ground Rule Double**  
+- If not caught, a Bounce makes the ball travel farther
+
+---
+
+## **Metal Bat**
+- Guarantees a **Hard Hit** (faster air travel)  
+- Hard Hits can be **Line Drives** or **Worm Burners**  
+- Line Drives: fast, difficult to catch  
+- Worm Burners: fast grounders but can be stopped by fielders
+
+---
+
+# 🎯 Special Pitches
+
+## **Spitball**
+- Always results in a foul ball straight back to the catcher  
+- Can result in a **Foul Tip** if caught  
+- Pull Hitting on inside pitches reduces foul chance by **75%**  
+- Same for Opposite Field Hitting  
+- Nullifies all **Hard Hits**
+
+---
+
+## **Sinker**
+- Starts as a **4‑Seam Fastball**, then slows to normal fastball speed at the plate  
+- Effective when thrown off the plate and curved back in  
+- Opposite behavior of a **Slider**
+
+---
+
+## **Slider**
+- Looks like a normal fastball, then suddenly accelerates to **4‑Seam** speed near the plate  
+- May take a wider turn during acceleration  
+- Excellent finishing pitch for strikeouts
+
+---
+
+## **Knuckleball**
+- Moves erratically and unpredictably  
+- Tends to stay aligned with the catcher for partial control  
+- High risk of **steals** and **wild pitches**
+
+---
+
+## **Changeup**
+- Slows down before reaching the plate, then speeds up suddenly  
+- Timing and duration of slowdown vary  
+- Beware of steals during the slow phase
+
+---
+
+## **4‑Seam Fastball**
+- Travels faster than a normal fastball  
+- Goes in a straight line to the catcher’s initial position  
+- Fastest pitch to reach home plate  
+- Effective at preventing steals
+
+---
+
+# 🏃 Special Runner
+
+## **Pinch Runner**
+- Can replace a runner on base or the batter  
+- After the pitch, becomes significantly faster  
+- Opposing team is notified when set  
+- Can only be used for **one play**
+
+---
+
+# 🥎 Special Hitter
+
+## **Pinch Hitter**
+- Can be brought in when at bat  
+- Specializes in hitting **Home Runs**  
+- For inside pitches, position for **Pull Hitting** or risk fouling  
+- Same logic for **Opposite Field Hitting**  
+- Opposing team is notified when set
+
+---
+
 ## History
 
 ## **v1.26**
