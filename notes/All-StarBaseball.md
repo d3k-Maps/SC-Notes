@@ -13,7 +13,7 @@ Download: [All-StarBaseball](../files/All-StarBaseball.scx)
   * [Special Pitches](./All-StarBaseball.md#-special-pitches)
   * [Special Runner](./All-StarBaseball.md#-special-runner)
   * [Special Hitter](./All-StarBaseball.md#-special-hitter)
-  * [Htting Zones](./All-StarBaseball.md#zones)
+  * [Htting Zones](./All-StarBaseball.md#hitting-zones)
   * [History](./All-StarBaseball.md#history)
 
 -----
