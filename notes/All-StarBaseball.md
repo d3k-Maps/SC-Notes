@@ -1,5 +1,18 @@
 # All-Star Baseball
 
+-----
+
+Download: [All-StarBaseball](../files/All-StarBaseball.scx)
+
+-----
+
+## Table of Contents
+
+  * [History](./All-StarBaseball.md#history)
+
+-----
+
+## History
 
 ## **v1.26**
 - Pinch Hitters can no longer use Special Bats that were set before the switch
