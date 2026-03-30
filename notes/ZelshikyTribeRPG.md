@@ -634,13 +634,13 @@ That, however… is the easiest part to fix.
 
 ## History
 
-## **v1.16**
+### **v1.16**
 - Loads of bugs fixed, both small (class specific) and big (game breaking)
 - Many features amended and added, including an alternate ending
 - Text redone or improved, and backstory added/fleshed out
 - Difficulty of Bosses and certain quests increased
 
-## **v1.15**
+### **v1.15**
 - Stun beacon quest modified and fixed
 - All boss battles should now work properly
 - The Mongrel special attack in the Final Boss battle now lowers hit points instead of instantly killing
@@ -659,7 +659,7 @@ That, however… is the easiest part to fix.
 - Added more Signs
 - Dialogue in cut scenes improved and cleaned up
 
-## **v1.14**
+### **v1.14**
 - Fixed a bug where Recruitment Center wouldn't work in bought towns
 - Fixed a bug where Stage 3 text wouldn't show for certain players
 - Made collecting earnings from a Castle take less time
@@ -673,7 +673,7 @@ That, however… is the easiest part to fix.
 - Purchasing Malaek now grants you access to the town's secret exit
 - Energy can now prolong the time a person has after their death
 
-## **v1.13**
+### **v1.13**
 - Fixed a bug where the Thief couldn't exit the Passenger boat upon arrival to Gixon
 - Fixed a bug where the Thief couldn't enter the cave through the Slenzar entrance
 - Fixed a bug where the Thief couldn't have more than 3 Accomplices regardless of staging
