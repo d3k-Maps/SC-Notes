@@ -31,7 +31,7 @@ Download: [OB2](../files/OB2.scm)
 
 You can trigger these abilities using your **Hero Overlord** or **Standard Overlord** hotkey menus. Each ability provides a unique tactical advantage on the battlefield.
 
-* **Sweeper Droid:** Deploys a specialized unit to effectively **Mind Control** enemy units.
+* **Sweeper Droid:** Deploys a specialized unit to effectively mind control enemy units.
 
 * **Artillery Barrage:** Enables a targeting system to rain fire on a specific location.
 
