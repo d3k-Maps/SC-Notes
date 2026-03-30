@@ -135,7 +135,7 @@ Next time, adjust by starting earlier or taking a wider angle.
 
 ## Gameplay
 
-### Video: [StarCraft Custom Maps: Racers](https://www.youtube.com/watch?v=wv02g00qX94)
+Video: [Watch - StarCraft Custom Maps: Racers](https://www.youtube.com/watch?v=wv02g00qX94)
 
 ---
 
