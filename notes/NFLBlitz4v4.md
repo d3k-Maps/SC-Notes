@@ -6,7 +6,7 @@ Download: [NFL Blitz 4v4](../files/NFL%20Blitz%20%5B4v4%5D.scx)
 
 -----
 
-# Inspiration
+## Inspiration
 
 Same as the original [NFL Blitz](https://scmscx.com/map/43c4d8VB) map by ShadowRune and Koltz. The original was 3v3 - this one was redesigned from the ground up as 4v4. 
 
