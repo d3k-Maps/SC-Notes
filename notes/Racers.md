@@ -1,4 +1,4 @@
-# 🏁 **RACERS**
+# 🏁 **Racers**
 
 -----
 
@@ -14,6 +14,7 @@ Download (singleplayer): [Racers](../files/Racers(E)-1p.scx)
   * [Controls](./Racers.md#%EF%B8%8F-controls)
   * [Game Modes](./Racers.md#-game-modes)
   * [Random Tips](./Racers.md#-random-tips)
+  * [Gameplay](./Racers.md#gameplay)
   * [History](./Racers.md#history)
 
 -----
@@ -129,6 +130,12 @@ Then release at the right moment — reduces misclicks and improves reaction tim
 ### **Tip #15**  
 Seeing **lurker blood** after a crash means you were close to a successful turn.  
 Next time, adjust by starting earlier or taking a wider angle.
+
+---
+
+## Gameplay
+
+### Video: [StarCraft Custom Maps: Racers](https://www.youtube.com/watch?v=wv02g00qX94)
 
 ---
 
