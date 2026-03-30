@@ -9,7 +9,7 @@ Download: [OB2](../files/OB2.scm)
 ## Table of Contents
 
   * [Objectives](./OB2.md#-objectives)
-  * [Important Hotkeys](./OB2.md#%EF%B8%8F-important-hotkeys)
+  * [Hotkeys](./OB2.md#%EF%B8%8F-hotkeys)
   * [Abilities](./OB2.md#abilities)
   * [Promotions](./OB2.md#-promotions-levels)
   * [Mechanics](./OB2.md#%EF%B8%8F-mechanics)
@@ -27,7 +27,7 @@ Download: [OB2](../files/OB2.scm)
 
 -----
 
-## ⌨️ Important Hotkeys
+## ⌨️ Hotkeys
 
 | Action / Menu | Unit / Building | Purpose |
 | :--- | :--- | :--- |
@@ -94,6 +94,9 @@ In large part, the ideas for this map and its predecessor came from [Battlefield
 
 ## History
 
+### **v1.26**
+- Pinch Hitters can no longer use Special Bats that were set before the switch
+- Special Bats should no longer be cancelled out by natural hard hits
 - More Strafing Jets spawn if the enemy has 3 or less bases
 - Fixed a bug that allowed a player to own multiple Squad Resets
 - Fixed a bug that set minerals to 100 instead of adding them upon promotion
