@@ -24,7 +24,6 @@
 | [Doodle Obstacles 1 & 2](./notes/DoodleObstacles1%262.md) | 11/26/08 |
 | [Capricious Bound](./notes/CapriciousBound.md) | 8/20/08 |
 | [MoP Quiz](./notes/MoPQuiz.md) | 8/13/08 |
-| [Horizon Bound](./notes/HorizonBound.md) | 7/8/08 |
 | [Feeling Lucky?](./notes/FeelingLucky%3F.md) | 1/14/08 |
 | [Reach the Bottom](./notes/ReachTheBottom.md) | 7/2/07 |
 | [Overthrown Battlegrounds](./notes/OverthrownBattlegrounds.md) | 11/26/06 |
@@ -45,12 +44,11 @@
 | [Terran Quests](./notes/TerranQuests.md) | 3/9/04 |
 | [Defend Your Base](./notes/DefendYourBase.md) | 3/10/04 |
 | [Escape from Prison 3](./notes/EscapeFromPrison3.md) | 4/17/04 |
-| [Heros of the Underworld (Series)](./notes/HerosOfTheUnderworld.md) | Early 2004 |
+| [Heros of the Underworld 1-6](./notes/HerosOfTheUnderworld.md) | Early 2004 |
 | [Castle Battles](./notes/CastleBattles.md) | 12/23/03 |
-| [Snipers Indoors](./notes/SnipersIndoors.md) | 10/6/03 |
 | [Escape from Prison 2](./notes/EscapeFromPrison2.md) | 6/25/03 |
 | [Escape from Prison](./notes/EscapeFromPrison.md) | 6/17/03 |
-| [Maze 1, 2, 3 & 4](./notes/Maze.md) | Winter 2003 |
+| [Maze 1-4](./notes/Maze.md) | Winter 2003 |
 
 -----
 
