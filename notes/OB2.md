@@ -32,12 +32,19 @@ Download: [OB2](../files/OB2.scm)
 You can trigger these abilities using your **Hero Overlord** or **Standard Overlord** hotkey menus. Each ability provides a unique tactical advantage on the battlefield.
 
 * **Sweeper Droid:** Deploys a specialized unit to effectively **Mind Control** enemy units.
+
 * **Artillery Barrage:** Enables a targeting system to rain fire on a specific location.
+
 * **Rally Point:** Toggles the rally point for your entire allied army to the Lieutenant's position.
+
 * **Rockets:** Fires a concentrated set of rockets at nearby hostiles.
+
 * **Heavy Mines:** Begins a deployment sequence to plant high-damage mines around the Lieutenant.
+
 * **Air Support:** Calls in air support - high-damage air units arrive at the Lieutenant to assist in the battle.
+
 * **Vehicle Drop:** Requests an immediate delivery of heavy armor/vehicles to your location.
+
 * **Fast Respawn:** Activates instant respawn for squad members that die in battle for a short period.
 
 ---
