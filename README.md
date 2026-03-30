@@ -10,7 +10,7 @@
 | [Stampede!](./notes/Stampede.md) | 3/24/24 |
 | [NFL Blitz 4v4](./notes/NFLBlitz4v4.md) | 5/16/17 |
 | [Zelshiky Tribe](./notes/ZelshikyTribeRPG.md) | 3/22/13 |
-| [Overthrown Battlegrounds 2](./notes/OverthrownBattlegrounds2.md) | 6/19/12 |
+| [Overthrown Battlegrounds 2](./notes/OB2.md) | 6/19/12 |
 | [LeaP](./notes/LeaP.md) | 6/16/12 |
 | [Modern Castles](./notes/ModernCastles.md) | 9/30/10 |
 | [Shoot The Targets](./notes/ShootTheTargets.md) | 8/31/10 |
