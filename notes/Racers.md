@@ -51,15 +51,6 @@ Download (singleplayer): [Racers](../files/Racers(E)-1p.scx)
 | Jump Start / Hard Brake | **Comma (,)** | **Marine** |
 | Focus Mode | **N** | **Build SCV at CC** |
 
-Action,Input,Unload Unit
-Shift Lanes Up / Left,W / A,Ghost
-Shift Lanes Down / Right,S / D,SCV
-Speed Up,.,Hero Zealot
-Slow Down,?,Zealot
-Turn,Shift,Medic
-Jump Start / Hard Brake,",",Marine
-Focus Mode,N,Build SCV at CC
-
 ---
 
 ## 🎮 **Game Modes**
