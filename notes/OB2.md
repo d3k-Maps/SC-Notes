@@ -7,9 +7,10 @@ Download: [OB2](../files/OB2.scm)
 -----
 
 ## 🎯 Objectives
+
 * **Capture:** Assist allies in capturing all enemy bases.
 * **Defend:** Protect allied bases to maintain control.
-* **Evolve:** Grow your squad to its maximum potential through kills.
+* **Evolve:** Grow your squad to its maximum potential.
 * **Protect:** Keep your **Lieutenant** alive at all costs.
 
 -----
@@ -20,9 +21,24 @@ Download: [OB2](../files/OB2.scm)
 | :--- | :--- | :--- |
 | **Equipment Engineering** | Engineering Bay | Upgrade weapons and armor |
 | **Options** | Shuttle | Interact with buildings and vehicles |
-| **Abilities (1)** | Hero Overlord | Tactical abilities that can tip the scales |
-| **Abilities (2)** | Overlord | Tactical abilities that can tip the scales |
+| **Abilities (1)** | Hero Overlord | Tactical reinforcements that can tip the scales of battle |
+| **Abilities (2)** | Overlord | More types of tactical reinforcements |
 | **Squad Orders** | Stargate | Give orders to all squad members at once |
+
+---
+
+## Abilities
+
+You can trigger these abilities using your **Hero Overlord** or **Standard Overlord** hotkey menus. Each ability provides a unique tactical advantage on the battlefield.
+
+* **Sweeper Droid:** Deploys a specialized unit to effectively **Mind Control** enemy units.
+* **Artillery Barrage:** Enables a targeting system to rain fire on a specific location.
+* **Rally Point:** Toggles the rally point for your entire allied army to the Lieutenant's position.
+* **Rockets:** Fires a concentrated set of rockets at nearby hostiles.
+* **Heavy Mines:** Begins a deployment sequence to plant high-damage mines around the Lieutenant.
+* **Air Support:** Calls in air support - high-damage air units arrive at the Lieutenant to assist in the battle.
+* **Vehicle Drop:** Requests an immediate delivery of heavy armor/vehicles to your location.
+* **Fast Respawn:** Activates instant respawn for squad members that die in battle for a short period.
 
 ---
 
@@ -45,10 +61,9 @@ Promotions are earned automatically as you reach specific kill counts. Each prom
 
 ## 🛠️ Mechanics
 
-* **Automatic Scaling:** As you level up, your **Respawn Delay** decreases, allowing you to get back into the fight faster.
-* **Economic Growth:** Higher promotion tiers significantly increase your potential mineral income from kills.
-* **Squad Reinforcements:** Every promotion triggers the creation of **Devouring Ones (Zerglings)**. Use these to select the type of squad member you need.
-* **Ability Unlocks:** Each promotion unlocks powerful abilities that you can pay to use.
+* **Squad Reinforcements:** Grow the capacity of your squad by earning **Devouring Ones (Zerglings)**. Use these to select the new squad member or change existing squad members. 
+* **Ability Unlocks:** Each promotion randomly unlocks one of eight powerful abilities. These will cost you, but can make a big impact in battle.
+* **Lieutenant:** Everything centers around your Lieutenant. This is where squad members spawn, ability effects take place, and where you interact with buildings to increase defenses or heal.
 
 ---
 
