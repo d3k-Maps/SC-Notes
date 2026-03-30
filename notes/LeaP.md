@@ -8,7 +8,7 @@ Download: [LeaP](../files/LeaP.scx)
 
 ## 🎮 Mechanics
 * **The Leap:** Select your **Scout** and **Right-Click** a location to leap. 
-* **The Bullet Phase:** While in mid-leap, you **cannot control** your Scout. He moves like a projectile until he lands.
+* **The Bullet Phase:** While in mid-leap, you **cannot control** your Scout. It moves like a projectile until it lands or the **Leap Range** runs out.
 * **Goal:** Reach the end of the course without dying.
 
 -----
@@ -23,9 +23,6 @@ To survive, you must land your leap on a **Safe Pad**. These are represented by 
 > 1. You run out of **Leap Range**.
 > 2. You go **Out of Bounds**.
 > 3. You land anywhere that is **NOT** a Safe Pad.
-
-
-This is a lot of data! Since these triggers define the difficulty progression for all 15 levels of **LeaP**, the best way to format this is a **Level Progression Table**. This allows players to see exactly how the game gets harder as they advance.
 
 ---
 
