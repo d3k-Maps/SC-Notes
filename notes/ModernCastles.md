@@ -2,7 +2,7 @@
 
 -----
 
-Download: [ModernCastles](../files/ModernCastles.scx)
+Download: [Modern Castles](../files/Modern%20Castles.scx)
 
 -----
 
