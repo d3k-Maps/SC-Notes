@@ -6,6 +6,14 @@ Download: [Modern Castles](../files/Modern%20Castles.scx)
 
 -----
 
+## Table of Contents
+
+  * [Economy](./ModernCastles.md#economy)
+  * [Structures](./ModernCastles.md#structures)
+  * [History](./ModernCastles.md#history)
+
+-----
+
 ## Economy
 
 A key mechanic of the game is the ability to earn **Tax** from **Civilians**. Tax income is scaled according to the total number of **Civilians** you have.
