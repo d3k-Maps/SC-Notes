@@ -17,11 +17,9 @@ Download: [Modern Castles](../files/Modern%20Castles.scx)
 
 ## Objectives
 
-Modern Castles is an 8 player game that centers on a "population economy," where you build structures to attract civilians who generate passive tax income. 
+Modern Castles is a sequel to [Castle Battles](./CastleBattles.md) that centers on a "population economy," where you build structures to attract civilians who generate passive tax income. 
 
 You must constantly balance safety and risk, choosing whether to keep civilians protected as taxpayers or recruit them into an army to seize rival castles and secure battle loot.
-
-This is a sequel to [Castle Battles](./CastleBattles.md).
 
 -----
 
