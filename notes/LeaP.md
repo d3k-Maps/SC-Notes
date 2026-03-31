@@ -14,10 +14,11 @@ Download: [LeaP](../files/LeaP.scx)
 -----
 
 ## 🛡️ Safe Pads
-To survive, you must land your leap on a **Safe Pad**. These are represented by the following units:
-* **Guardians**: These are the safest and most reliable. They move, but they're slow.
-* **Overlords**: These dissappear after 2-3 seconds. Quickly find another to jump to after landing.
-* **Devourers**: These can take you far, but you have no control. You regain control if you cross another pad.
+To survive, you must land your leap on a **Safe Pad** or other floating device:
+* **Safe Pads (Guardians)**: These are the safest and most reliable. They move, but they're slow.
+* **Floaters (Overlords)**: These dissappear after 2-3 seconds. Quickly find another to jump to after landing.
+* **Sinkers (Carriers)**: Like floaters, but they dissappear within a second. They also have faster movement. 
+* **Dragger (Devourers)**: These can take you far, but you have no control. You regain control if you cross another pad.
 
 > **You will die if:**
 > 1. You run out of **Leap Range**.
