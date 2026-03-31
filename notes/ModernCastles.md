@@ -6,6 +6,14 @@ Download: [Modern Castles](../files/Modern%20Castles.scx)
 
 -----
 
+## Economy
+
+**Tax** is generated periodically in the form of **Ore**. Tax income is scaled according to the total number of **Civilians** you have.
+
+The amount of Ore gained is calculated in increments of 5 civilians. For every additional 5 civilians, your tax income increases by **8 Ore**. This is distributed when the **Countdown Timer** reaches 0. The maximum tax gain is capped at **504**.
+
+-----
+
 ## Structures
 
 **Town Hall (Command Center)**
