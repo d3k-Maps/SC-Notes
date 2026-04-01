@@ -16,7 +16,7 @@ You start with 1000 points. Eliminate all threats before your score reaches zero
 
 ## Threats
 
-* **Terrorist**: A high-value target. Their primary goal is to reach one of many airports around the map. Reaching any of the five airport locations subtracts **50 points**.
+* **Terrorist**: A high-value target. Their primary goal is to reach one of five airport locations around the map, which subtracts **50 points**.
 
 * **Suicide Bomber**: These blow themselves up periodically. Detonating near people subtracts **6 points per person** killed in the blast.
 
