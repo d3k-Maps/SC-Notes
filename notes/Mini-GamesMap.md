@@ -63,7 +63,13 @@ There are 19 mini-games you can play:
 
 * **Mixture Madness**
     * **Objective**: Kill Lurkers to manage your resources. Killing a player 7 Lurker adds gas and subtracts ore, while killing a player 8 Lurker adds ore and subtracts gas
-    
+
 * **The Cave of Doom**
     * **Objective**: Survive and navigate through a "cave" area while avoiding or dealing with obstacles and enemy units. The code mentions "The Cave of Doom" in the context of running AI scripts and spawning Drones
+
+* **Invisible Path**
+    * **Objective**: Navigate to the end of a path where the walkway is not visible. Touching the sides will reset your position.
+
+* **Obstacle Course**
+    * **Objective**: Reach the end of the course while dodging moving units and traps
 
