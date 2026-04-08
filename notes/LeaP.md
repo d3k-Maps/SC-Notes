@@ -6,6 +6,17 @@ Download: [LeaP](../files/LeaP.scx)
 
 -----
 
+## Table of Contents
+
+  * [Mechanics](./LeaP.md#-mechanics)
+  * [Safe Pads](./LeaP.md#-safe-pads)
+  * [Hazards](./LeaP.md#hazards)
+  * [Levels](./LeaP.md#-levels)
+  * [Game Modes](./LeaP.md#game-modes)
+  * [History](./LeaP.md#history)
+
+-----
+
 ## 🎮 Mechanics
 * **The Leap:** Select your **Scout** and **Right-Click** a location to leap. 
 * **The Bullet Phase:** While in mid-leap, you **cannot control** your Scout. It moves like a projectile until it lands or the **Leap Range** runs out.
@@ -68,7 +79,7 @@ The difficulty in **LeaP** scales by reducing your **Leap Range** and swapping s
 
 ---
 
-### Game Modes
+## Game Modes
 
 * **Collaborative:** Players work together to clear all 15 levels (each player starts with 30 lives).
 * **Competitive:** A race mode where the first player to reach the end 5 times (5 points) wins.
