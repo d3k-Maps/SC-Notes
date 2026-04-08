@@ -24,9 +24,9 @@
 | [Doodle Obstacles 1 & 2](./notes/DoodleObstacles.md) | 11/26/08 |
 | [Capricious Bound](./notes/CapriciousBound.md) | 8/20/08 |
 | [MoP Quiz](./notes/MoPQuiz.md) | 8/13/08 |
-| [Feeling Lucky?](./notes/FeelingLucky%3F.md) | 1/14/08 |
+| [Feeling Lucky?](./notes/FeelingLucky.md) | 1/14/08 |
 | [Reach the Bottom](./notes/ReachTheBottom.md) | 7/2/07 |
-| [Overthrown Battlegrounds](./notes/OverthrownBattlegrounds.md) | 11/26/06 |
+| [Overthrown Battlegrounds](./notes/OB1.md) | 11/26/06 |
 | [4 Fierce Dragons RPG](./notes/4FierceDragonsRPG.md) | 11/28/06 |
 | [Mini-Games Map](./notes/Mini-GamesMap.md) | 11/25/06 |
 | [Typical Bounders](./notes/TypicalBounders.md) | 11/6/06 |
