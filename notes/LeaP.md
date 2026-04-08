@@ -29,25 +29,25 @@ To survive, you must land your leap on a **Safe Pad** or other floating device:
 
 ## 📈 Levels
 
-The difficulty in **LeaP** scales by reducing your **Leap Range** and swapping stable **Safe Pads** for more dangerous elements like **Sinkers** and **Missiles**.
+The difficulty in **LeaP** scales by reducing your **Leap Range** and swapping stable **Safe Pads** for more dangerous ones like **Flimsy Floaters** and **Droppers**.
 
-| Level | Leap Range | Safe Pads | Floaters | Sinkers | Missiles |
-| :---: | :---: | :---: | :---: | :---: | :---: |
-| **1** | 10s | 35 | 50 | - | - |
-| **2** | 9s | 35 | 50 | - | - |
-| **3** | 8s | 35 | 40 | - | - |
-| **4** | 7s | 35 | 40 | - | - |
-| **5** | 6s | 30 | 40 | - | - |
-| **6** | 6s | 30 | 35 | - | - |
-| **7** | 6s | 25 | 30 | - | - |
-| **8** | 5s | 25 | 30 | - | - |
-| **9** | 4s | 25 | 25 | - | 10 |
-| **10** | 4s | 25 | 20 | - | 15 |
-| **11** | 4s | 15 | 20 | 10 | 15 |
-| **12** | 4s | 5 | 20 | 20 | 15 |
-| **13** | 4s | - | 15 | 25 | 15 |
-| **14** | 4s | - | 5 | 30 | 15 |
-| **15** | 4s | - | - | 35 | 20 |
+| Level | Leap Range | Safe Pads | Floaters | Flimsy Floaters | Droppers | Sinkers | Draggers | Whirlers | Rocks |
+| :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
+| **1** | 10s | 35 | 50 | - | - | - | - | - | - |
+| **2** | 9s | 30 | 45 | - | - | - | - | - | - |
+| **3** | 8s | 25 | 40 | - | - | - | 2 | - | - |
+| **4** | 7s | 20 | 35 | 5 | - | - | 3 | - | - |
+| **5** | 6s | 15 | 30 | 10 | - | 2 | 4 | - | - |
+| **6** | 6s | 10 | 25 | 15 | 5 | 3 | 4 | - | - |
+| **7** | 5s | 5 | 20 | 20 | 10 | 4 | 4 | - | - |
+| **8** | 5s | 0 | 15 | 25 | 15 | 5 | 4 | - | - |
+| **9** | 5s | 0 | 10 | 30 | 20 | 6 | 4 | 6 | - |
+| **10** | 4s | 0 | 5 | 35 | 20 | 6 | 4 | 12 | - |
+| **11** | 4s | 0 | 0 | 40 | 20 | 6 | 4 | 18 | - |
+| **12** | 4s | 0 | 0 | 45 | 20 | 6 | 4 | 18* | - |
+| **13** | 4s | 0 | 0 | 35 | 25 | 6 | 4 | 18 | 6s* |
+| **14** | 3s | 0 | 0 | 25 | 30 | 6 | 4 | 18 | 4s |
+| **15** | 3s | 0 | 0 | 15 | 35 | 6 | 4 | 18 | 2s |
 
 ---
 
@@ -65,6 +65,16 @@ The difficulty in **LeaP** scales by reducing your **Leap Range** and swapping s
 ---
 
 ## History
+
+### **v1.07**
+- Player 1 is no longer required
+- Major gameplay flaw addressed where player could use hotkey to control unit mid-leap
+- Adjusted levels in collaborative mode so that they're more diverse
+- Leap range now decreases as the player gets closer to 5 points
+- Added Whirlers
+- Changed Sinkers to Droppers - the most unstable platform
+- Changed Missiles to Sinkers, which now explode
+- Added Rocks to collaborative mode
 
 ### **v1.06**
 - Bug fixes
