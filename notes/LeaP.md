@@ -9,7 +9,7 @@ Download: [LeaP](../files/LeaP.scx)
 ## Table of Contents
 
   * [Mechanics](./LeaP.md#-mechanics)
-  * [Safe Pads](./LeaP.md#-safe-pads)
+  * [Safe Pads](./LeaP.md#%EF%B8%8F-safe-pads)
   * [Hazards](./LeaP.md#hazards)
   * [Levels](./LeaP.md#-levels)
   * [Game Modes](./LeaP.md#game-modes)
