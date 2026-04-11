@@ -16,7 +16,9 @@ A sequel to the original [Escape From Prison](./EscapeFromPrison.scm).
 
 ### **v1.13**
 * Made the "last stretch" area more fun and less impossible.
-* Added a third secret
+* The Turret can now fire both ways
+* The player's beacon is now the exit
+* Added two more secrets
 * Added the Mad Scientist
 
 ### **v1.12**
