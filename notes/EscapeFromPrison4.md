@@ -18,6 +18,7 @@ A sequel to the original [Escape From Prison](./EscapeFromPrison.scm).
 * Made the "last stretch" area more fun and less impossible.
 * The Turret can now fire both ways
 * The player's beacon is now the exit
+* Blue lings are now the revives
 * Added two more secrets
 * Added the Mad Scientist
 
