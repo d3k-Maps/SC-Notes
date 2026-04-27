@@ -2,7 +2,7 @@
 
 -----
 
-Download: [All-StarBaseball](../files/All-StarBaseball.scx)
+Download: [All-Star Baseball](../files/All-StarBaseball.scx)
 
 -----
 
@@ -529,6 +529,17 @@ A remake of the original [Baseball](https://scmscx.com/map/kV5f4jYD) map by Drag
 ---
 
 ## History
+
+### **v1.28**
+- Stick Bat Aim can now be adjusted by tank position
+- Siege no longer resets tank to center hit position
+- Catchers get moved if too close to the plate or batter
+- Fixed a bug where tagging one runner resulted in more than one out
+- Runners of the same type are now deterred from crossing paths
+
+### **v1.27**
+- Player 1 is no longer required
+- Running out of the base line now slows the runner
 
 ### **v1.26**
 - Pinch Hitters can no longer use Special Bats that were set before the switch
